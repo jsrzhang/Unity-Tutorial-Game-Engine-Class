@@ -1,5 +1,5 @@
 # Unity-Tutorial-Game-Engine-Class
 
-This is our read me file for our Unity Tutorial
+This is our read me file for our Unity Tutorial: Karting Microgame.
 
-We added ramps and updated parts of the game to create a time trial kart game.
+In accordance with the tutorials, we modified the race paths to make a time trial kart game and added purple JumpRamps, Checkpoint Rings, and other props to the scene. Along with the pre-set props like stones, ground, clouds, and trees, the addition of buildings and paths is meant to give the environment a lively and modern feel.
